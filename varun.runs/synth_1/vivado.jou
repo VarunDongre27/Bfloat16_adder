@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Thu May  8 07:22:16 2025
+# Process ID: 37332
+# Current directory: E:/Xilinx/CLOCK/varun/varun.runs/synth_1
+# Command line: vivado.exe -log bfloat16_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source bfloat16_top.tcl
+# Log file: E:/Xilinx/CLOCK/varun/varun.runs/synth_1/bfloat16_top.vds
+# Journal file: E:/Xilinx/CLOCK/varun/varun.runs/synth_1\vivado.jou
+# Running On: ANIMESHPC, OS: Windows, CPU Frequency: 2419 MHz, CPU Physical cores: 4, Host memory: 16893 MB
+#-----------------------------------------------------------
+source bfloat16_top.tcl -notrace
